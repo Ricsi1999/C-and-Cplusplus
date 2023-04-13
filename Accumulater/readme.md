@@ -8,4 +8,4 @@ tömb(ök)ről lekerül az array_accumulater objektum, a tömb(ök) visszaáll(n
 az eredeti állapotba. Az add művelettel további tömbök adhatóak az
 accumulaterhez, ilyenkor az összegzés az előző tömb végétől folytatódik az
 összegzés. Opcionális template paraméterként az összeadás művelet tetszőleges
-bináris műveletre cserélhető.
+bináris műveletre cserélhető. asd
